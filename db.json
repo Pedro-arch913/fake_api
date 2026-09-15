@@ -1,0 +1,34 @@
+{
+  "historico": [
+    {
+      "id": 1,
+      "imagem": "https://images.unsplash.com/photo-1581578731548-c64695cc6952?w=300",
+      "servico": "Faxina Residencial Completa (4h)",
+      "preco": "R$ 160,00"
+    },
+    {
+      "id": 2,
+      "imagem": "https://images.unsplash.com/photo-1621905251189-08b45d6a269e?w=300",
+      "servico": "Manutenção de Ar-Condicionado Split",
+      "preco": "R$ 120,00"
+    },
+    {
+      "id": 3,
+      "imagem": "https://images.unsplash.com/photo-1503951914875-452162b0f3f1?w=300",
+      "servico": "Corte Masculino + Barba em Domicílio",
+      "preco": "R$ 65,00"
+    },
+    {
+      "id": 4,
+      "imagem": "https://images.unsplash.com/photo-1558618666-fcd25c85cd4e?w=300",
+      "servico": "Reparo Elétrico - Troca de Disjuntor",
+      "preco": "R$ 90,00"
+    },
+    {
+      "id": 5,
+      "imagem": "https://images.unsplash.com/photo-1516975080664-ed2fc6a32937?w=300",
+      "servico": "Maquiagem Social para Evento",
+      "preco": "R$ 150,00"
+    }
+  ]
+}
